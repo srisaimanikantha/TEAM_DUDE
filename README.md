@@ -16,7 +16,7 @@ We are here to **understand, experiment, break things, fix things, share knowled
 
 | Member                         | Role            |
 | ------------------------------ | --------------- |
-| **Ponnana Sai Sai Manikantha** | 🧑‍💻 Developer |
+| **Ponnana Sri Sai Manikantha** | 🧑‍💻 Developer |
 | **Gayathri Reddy**             | 🧑‍💻 Developer |
 | **Manasa Reddy**               | 🧑‍💻 Developer |
 | **Siva Sankar Reddy**          | 🧑‍💻 Developer |
